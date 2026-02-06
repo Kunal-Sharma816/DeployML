@@ -1,4 +1,4 @@
-# Bombay_OG_Aayush
+# DeployML
 
 Streamline your machine learning journey with automated model selection and seamless deployment. No technical expertise required!
 
@@ -15,7 +15,7 @@ Streamline your machine learning journey with automated model selection and seam
 - **Scikit-learn:** Essential for implementing machine learning algorithms and model evaluation.
 - **Pandas:** Simplifies data manipulation and preprocessing tasks.
 - **Flask:** Web frameworks for building RESTful APIs for model deployment.
-- **TensorFlow/PyTorch:** Advanced frameworks for training complex deep learning models.
+- **PyTorch:** Advanced frameworks for training complex deep learning models.
 - **AWS:** Cloud platform for scalable backend infrastructure.
 
 ## Setup Instructions
@@ -27,12 +27,13 @@ Follow these steps to clone the repository, set up the Python environment, and r
    Open a terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/Hack2Future-IIIT-Dharwad/Bombay_OG_Aayush
+   git clone https://github.com/Kunal-Sharma816/DeployML.git
+
 
 ### Backend
 1. **Create a Virtual Environment in the backend**
    ```bash
-   cd Bombay_OG_Aayush
+   cd DeployML
    cd backend
    python -m venv venv
    ```
@@ -61,7 +62,4 @@ Follow these steps to clone the repository, set up the Python environment, and r
 
 # License
 Copyright (c) 2024 
-1. Ashish Lal
-2. Aayush Kumar
-3. Aditya Dev
-4. Nancy Yadav
+
